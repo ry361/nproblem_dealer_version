@@ -1,0 +1,41 @@
+{
+  "qb": {
+    "dealer": {
+      "version": "1.0.0",
+      "releaseDate": "2026-10-19",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Initial release."
+      ],
+      "missingFeatures": [],
+      "removed": []
+    }
+  },
+  "qbox": {
+    "dealer": {
+      "version": "1.0.0",
+      "releaseDate": "2026-10-19",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Initial release."
+      ],
+      "missingFeatures": [],
+      "removed": []
+    }
+  },
+  "esx": {
+    "dealer": {
+      "version": "1.0.0",
+      "releaseDate": "2026-10-19",
+      "critical": false,
+      "download": "https://portal.cfx.re/assets/granted-assets",
+      "changelog": [
+        "Initial release."
+      ],
+      "missingFeatures": [],
+      "removed": []
+    }
+  }
+}
