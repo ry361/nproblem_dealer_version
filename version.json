@@ -8,9 +8,6 @@
       "changelog": [
         "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
       ],
-      "missingFeatures": [
-        "Dealership-wide and per-category finance rules"
-      ],
       "removed": []
     }
   },
@@ -23,9 +20,6 @@
       "changelog": [
         "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
       ],
-      "missingFeatures": [
-        "Dealership-wide and per-category finance rules"
-      ],
       "removed": []
     }
   },
@@ -37,9 +31,6 @@
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
         "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
-      ],
-      "missingFeatures": [
-        "Dealership-wide and per-category finance rules"
       ],
       "removed": []
     }
