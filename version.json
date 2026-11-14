@@ -1,40 +1,46 @@
 {
   "qb": {
-    "dealer": {
-      "version": "1.0.0",
-      "releaseDate": "2026-10-19",
+    "dealership": {
+      "version": "1.0.3",
+      "releaseDate": "2026-11-14",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        "Initial release."
+        "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
       ],
-      "missingFeatures": [],
+      "missingFeatures": [
+        "Dealership-wide and per-category finance rules"
+      ],
       "removed": []
     }
   },
   "qbox": {
-    "dealer": {
-      "version": "1.0.0",
-      "releaseDate": "2026-10-19",
+    "dealership": {
+      "version": "1.0.3",
+      "releaseDate": "2026-11-14",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        "Initial release."
+        "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
       ],
-      "missingFeatures": [],
+      "missingFeatures": [
+        "Dealership-wide and per-category finance rules"
+      ],
       "removed": []
     }
   },
   "esx": {
-    "dealer": {
-      "version": "1.0.0",
-      "releaseDate": "2026-10-19",
+    "dealership": {
+      "version": "1.0.3",
+      "releaseDate": "2026-11-14",
       "critical": false,
       "download": "https://portal.cfx.re/assets/granted-assets",
       "changelog": [
-        "Initial release."
+        "Added Finance Rules: enable instalment plans for the whole dealership or per category instead of vehicle by vehicle. New deliveries pick them up automatically, and individual vehicles can still have their own plans or be cash only. Found under Management > Vehicles > Finance Rules."
       ],
-      "missingFeatures": [],
+      "missingFeatures": [
+        "Dealership-wide and per-category finance rules"
+      ],
       "removed": []
     }
   }
